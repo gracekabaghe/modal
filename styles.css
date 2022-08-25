@@ -188,7 +188,7 @@ Modal
   place-items: center;
 }
 .banner {
-  background: var(--clr-white);
+  background: hsl(206deg 100% 73%);
   padding: 4rem 0;
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
